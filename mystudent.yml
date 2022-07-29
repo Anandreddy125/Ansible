@@ -1,0 +1,22 @@
+---
+- myStundents:
+  - name: anand
+    phn: 9515537092
+    address: 
+       - Doorno: 2-57/A
+       - street: 1
+       - pincode: 509351
+ 
+  - name: snehal
+    phn: 951553709
+    address: 
+           - Doorno: 2-57/A
+           - street: 2
+           - pincode: 509351
+  
+  - name: sandy
+    phn: 9515537082
+    address: 
+         - Doorno: 2-57/A
+         - street: 3
+         - pincode: 509351
