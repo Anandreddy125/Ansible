@@ -1,12 +1,12 @@
 ---
  - hosts: all
    tasks:
-   - name: i want to install git
+   - name: i want to install git on ansible node
      apt:
       name: git
       state: present
   
-   - name: i want to install httpd
+   - name: i want to install httpd on ansible node
      apt:
       name: httpd
       state: present
