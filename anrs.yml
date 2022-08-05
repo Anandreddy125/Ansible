@@ -5,7 +5,7 @@
    tasks:
  - name: i want to install apache2 on ansible node
    apt:
-    name: apache
+    name: apache2
     state: present
     when: ansible_os_family =="Debian"
 
